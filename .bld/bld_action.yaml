@@ -1,5 +1,6 @@
-type: action
 version: 3
+type: action
+name: Bld remote action demo
 
 steps:
   - id: hello
