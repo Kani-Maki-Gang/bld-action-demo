@@ -1,0 +1,6 @@
+type: action
+version: 3
+
+steps:
+  - id: hello
+    run: echo 'hello world'
