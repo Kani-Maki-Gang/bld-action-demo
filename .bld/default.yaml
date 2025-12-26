@@ -1,8 +1,0 @@
-version: 3
-type: pipeline
-runs_on: machine
-
-jobs:
-  main:
-    - name: Say hello
-      run: echo 'hello world'
