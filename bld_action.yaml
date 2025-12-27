@@ -7,4 +7,4 @@ steps:
     run: echo 'hello world from action in git repository'
 
   - id: hello2
-    run: echo 'hello world again from action in git repository'
+    run: echo 'hello world again from action in git repository [updated]'
