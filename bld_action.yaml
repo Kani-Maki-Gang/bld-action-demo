@@ -4,4 +4,7 @@ name: Bld remote action demo
 
 steps:
   - id: hello
-    run: echo 'hello world'
+    run: echo 'hello world from action in git repository'
+
+  - id: hello2
+    run: echo 'hello world again from action in git repository'
