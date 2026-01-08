@@ -8,3 +8,6 @@ steps:
 
   - id: hello2
     run: echo 'hello world again from action in git repository [updated]'
+
+  - id: hello3
+    run: echo 'hello world again from action in git repository [updated again]'
