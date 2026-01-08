@@ -11,3 +11,6 @@ steps:
 
   - id: hello3
     run: echo 'hello world again from action in git repository [updated again]'
+
+  - id: hello4
+    run: echo 'hello world again from action in git repository [updated again and again]'
